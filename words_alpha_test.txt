@@ -1,7 +1,0 @@
-apple
-banana
-dog
-cat
-god
-doggy
-godly
