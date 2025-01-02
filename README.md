@@ -1,4 +1,8 @@
-# Wordscapes Solver
+![Wordscapes Icon](https://github.com/user-attachments/assets/71c18749-e617-403f-a892-a5f7fa80b0cd)
+
+# Wordscapes Solver 
+
+
 
 For when a Wordscapes level is just too hard
 
