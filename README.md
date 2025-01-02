@@ -22,5 +22,5 @@ For when a Wordscapes level is just too hard
 #### 2 Arguments
 ```python3 main.py ALLOWED_LETTERS MIN_LENGTH```
 
-```python3 main.py dgo 3```
+Ex. ```python3 main.py dgo 3```
 - Providing 2 arguments (not including the name of the python file) specifies the letters that can be used to create words and the minimum length of a valid word
